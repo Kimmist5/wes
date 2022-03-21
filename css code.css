@@ -1,0 +1,41 @@
+*
+{
+	font-family: "Comic Sans MS"; text-align: justify;
+}
+
+
+.fumos
+{
+	color: darkblue;
+	font-size: 20px; /* couleur des parra*/
+}
+.liste_n_titre 
+{
+	color: crimson;
+}
+h2
+{
+	color: orange;
+}
+#abstrate
+{
+	color: blueviolet; text-decoration: underline;
+}
+#lol
+{
+	font-style: italic;
+}
+#left
+{
+	text-align: right;
+}
+.baniere
+{
+
+}
+
+body
+{
+	background: url("FUMOOOO.png") fixed no-repeat;
+	background-position: top right;
+}
