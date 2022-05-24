@@ -1,0 +1,60 @@
+*
+{
+	font-family: "Comic Sans MS"; text-align: justify;
+}
+
+
+
+h2
+{
+	color: lime;
+}
+#abstrate
+{
+	color: lime; text-decoration: underline;
+}
+#lol
+{
+	font-style: italic;
+}
+#left
+{
+	text-align: right;
+}
+.baniere
+{
+
+}
+
+body
+{
+	background: url("h.png") fixed no-repeat;
+	background-position: top right;
+	background-color: black ;
+}
+
+
+.hackerlist
+{
+	color: lime;
+}
+.hackfumos
+{
+	color: lime;
+}
+p
+{
+	color: lime;
+}
+h1
+{
+	color:  lime;
+}
+li
+{
+	color: lime;
+}
+.KIMMIST
+{
+	color: lime;
+}
